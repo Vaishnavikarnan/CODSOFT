@@ -1,3 +1,5 @@
+#VAISHNAVI.K_PYTHON INTERNSHIP
+#rock-paper-scissors game_TASK4
 import random
 
 def get_computer_choice():
