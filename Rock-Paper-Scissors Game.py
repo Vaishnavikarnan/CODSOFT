@@ -47,7 +47,7 @@ def welcome_message():
     print("===================================")
     print("Instructions:")
     print("1. You will be playing against the computer.")
-    print("2. Choose either 'rock', 'paper', or 'scissors' when prompted.")
+    print("2. Choose either 'rock', 'paper', or 'scissors'.")
     print("3. Rock beats scissors, scissors beat paper, and paper beats rock.")
     print("4. The game will keep track of your points.")
     print("5. Have fun and good luck!")
